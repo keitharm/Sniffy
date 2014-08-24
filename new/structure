@@ -1,0 +1,6 @@
+EXTRA NIBBLE = 1 bit
+VERSION      = 4 bits
+WIDTH        = 4 bits ( 65536 )
+HEIGHT       = 4 bits ( 65536 )
+
+DESCRIPTION  = 1024 bits ( 128 byte long description )
